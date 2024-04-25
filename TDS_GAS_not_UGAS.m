@@ -113,3 +113,4 @@ set(gca,'LooseInset',max(get(gca,'TightInset'), 0.02))
 % save:
 print('graph', '-dpdf')
 print('graph', '-deps')
+print('graph', '-djpeg')
