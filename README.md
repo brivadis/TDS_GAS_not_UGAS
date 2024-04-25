@@ -1,7 +1,7 @@
 # TDS_GAS_not_UGAS
 
-Supplementary material to the article ''[For time-invariant delay systems, global asymptotic stability does not imply uniform global attractivity](https://hal.science/hal-04484531v1)''.
-by A. Chaillet, F. Wirth, A. Mironchenko and L. Brivadis
+Supplementary material to the article ''[For time-invariant delay systems, global asymptotic stability does not imply uniform global attractivity](https://hal.science/hal-04484531v1)''
+by A. Chaillet, F. Wirth, A. Mironchenko and L. Brivadis.
 
 This page contains code for the numerical experiment of this paper.
 
